@@ -5,5 +5,12 @@
     "rating": 4,
     "comment": "excellent",
     "timestamp": "2025-07-24 15:20:58.873899"
+  },
+  {
+    "user_id": "anna",
+    "course": "Calculus for Machine Learning and Data Science",
+    "rating": 4.0,
+    "comment": "good",
+    "timestamp": "2025-07-25 02:46:22.105155"
   }
 ]
